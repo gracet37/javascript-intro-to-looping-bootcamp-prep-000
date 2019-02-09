@@ -16,4 +16,5 @@ function forLoop(array) {
 }
 return array 
 }
+function doWhileLoop(i)
 
