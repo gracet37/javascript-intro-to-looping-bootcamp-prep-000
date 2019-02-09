@@ -16,5 +16,7 @@ function forLoop(array) {
 }
 return array 
 }
-function doWhileLoop(i)
+function doWhileLoop(num) {
+  do 
+}
 
