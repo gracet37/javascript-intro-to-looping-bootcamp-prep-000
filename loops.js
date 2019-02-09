@@ -16,7 +16,9 @@ function forLoop(array) {
 }
 return array 
 }
+
 function doWhileLoop(num) {
-  do console.log("I run once regardless.");
+  do {console.log("I run once regardless.");
+  } while (incrementVariable() < num);
 }
 
